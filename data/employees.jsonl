@@ -1,0 +1,6 @@
+{"employee_id": 1, "name": "Alice", "team": "data", "salary": 120000, "city": "Shanghai"}
+{"employee_id": 2, "name": "Bob", "team": "data", "salary": 135000, "city": "Beijing"}
+{"employee_id": 3, "name": "Carol", "team": "infra", "salary": 128000, "city": "Shanghai"}
+{"employee_id": 4, "name": "David", "team": "product", "salary": 118000, "city": "Hangzhou"}
+{"employee_id": 5, "name": "Eva", "team": "infra", "salary": 142000, "city": "Shenzhen"}
+{"employee_id": 6, "name": "Frank", "team": "data", "salary": 125000, "city": "Shanghai"}
